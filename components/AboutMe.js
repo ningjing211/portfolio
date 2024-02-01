@@ -16,12 +16,12 @@ export default function AboutMe() {
             style={{ lineHeight: "3rem" }}
           >
             {userData.about.title}. Currently working on{" "}
-            <a
+            {/* <a
               className="bg-red-500 rounded-md px-2 py-1 text-white"
               href={userData.about.currentProjectUrl}
             >
               {userData.about.currentProject} ✈️
-            </a>
+            </a> */}
           </p>
         </div>
       </div>
@@ -50,7 +50,9 @@ export default function AboutMe() {
               </h1>
               <p className="text-lg text-gray-500 mt-4 dark:text-gray-300">
                 I'm looking for a job currently, If you see me as a good fit,
-                check my{" "}
+                check me out, and I'd love to work for you.
+                
+                {/* {" "}
                 <a
                   href={userData.resumeUrl}
                   target="__blank"
@@ -58,7 +60,8 @@ export default function AboutMe() {
                 >
                   CV
                 </a>{" "}
-                and I'd love to work for you.
+                 */}
+                
               </p>
             </div>
             {/* Social Links */}
@@ -66,7 +69,7 @@ export default function AboutMe() {
               Social Links
             </h1>
             <div className="mt-4 ml-4">
-              <div className="flex flex-row justify-start items-center ">
+              {/* <div className="flex flex-row justify-start items-center ">
                 <a
                   href={userData.socialLinks.peerlist}
                   className="flex flex-row items-center space-x-4 group"
@@ -125,7 +128,7 @@ export default function AboutMe() {
                     LinkedIn
                   </div>
                 </a>
-              </div>
+              </div> */}
               <div className="flex flex-row justify-start items-center">
                 <a
                   href={userData.socialLinks.instagram}
