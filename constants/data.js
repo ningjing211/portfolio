@@ -13,19 +13,19 @@ const userData = {
       imgUrl: "/tmk.jpg",
     },
     {
-      title: "PlaceholderTech",
-      link: "https://placeholdertech.in",
-      imgUrl: "/placeholdertech.png",
+      title: "Sprite Online English Tutor",
+      link: "https://sprite-training.my.canva.site/online-tutor",
+      imgUrl: "/Sprite.jpeg",
     },
     {
-      title: "Portfolio",
-      link: "https://manuarora.in",
-      imgUrl: "/portfolio.png",
+      title: "meepshop開店平台版型",
+      link: "https://www.meepshop.com/sample#FeaturedCases",
+      imgUrl: "/meepshop.webp",
     },
     {
       title: "黑葉猴甜點教學網",
       link: "https://reurl.cc/zl5Aj6",
-      imgUrl: "/dessert.JPG",
+      imgUrl: "/sweets.JPG",
     },
     // {
     //   title: "Algochurn",
