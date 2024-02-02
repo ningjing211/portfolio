@@ -8,9 +8,9 @@ const userData = {
   address: "get in touch with me",
   projects: [
     {
-      title: "Tailwind Master Kit",
-      link: "https://tailwindmasterkit.com",
-      imgUrl: "/tmk.jpg",
+      title: "Creative Visuals",
+      link: "https://next-ui-app-red.vercel.app/",
+      imgUrl: "/AI-Visuals/10.jpeg",
     },
     {
       title: "Sprite Online English Tutor",
@@ -18,12 +18,12 @@ const userData = {
       imgUrl: "/Sprite.jpeg",
     },
     {
-      title: "meepshop開店平台版型",
+      title: "meepshop Online Shop",
       link: "https://www.meepshop.com/sample#FeaturedCases",
       imgUrl: "/meepshop.webp",
     },
     {
-      title: "黑葉猴甜點教學網",
+      title: "Francois Langur Dessert SPA",
       link: "https://reurl.cc/zl5Aj6",
       imgUrl: "/sweets.JPG",
     },
