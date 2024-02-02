@@ -23,37 +23,37 @@ const userData = {
       imgUrl: "/portfolio.png",
     },
     {
-      title: "CovidRescue",
-      link: "https://covidrescue.co.in",
-      imgUrl: "/covidrescue.png",
+      title: "黑葉猴甜點教學網",
+      link: "https://reurl.cc/zl5Aj6",
+      imgUrl: "/dessert.JPG",
     },
-    {
-      title: "Algochurn",
-      link: "https://algochurn.com",
-      imgUrl: "/algochurn.png",
-    },
-    {
-      title: "Playground",
-      link: "https://play.placeholdertech.in",
-      imgUrl: "/playground.png",
-    },
-    {
-      title: "Feedmeback",
-      link: "https://feedmeback.vercel.app",
-      imgUrl: "/feedmeback.png",
-    },
-    {
-      title: "Devmedium",
-      link: "https://devmedium.vercel.app",
-      imgUrl: "/devmedium.png",
-    },
+    // {
+    //   title: "Algochurn",
+    //   link: "https://algochurn.com",
+    //   imgUrl: "/algochurn.png",
+    // },
+    // {
+    //   title: "Playground",
+    //   link: "https://play.placeholdertech.in",
+    //   imgUrl: "/playground.png",
+    // },
+    // {
+    //   title: "Feedmeback",
+    //   link: "https://feedmeback.vercel.app",
+    //   imgUrl: "/feedmeback.png",
+    // },
+    // {
+    //   title: "Devmedium",
+    //   link: "https://devmedium.vercel.app",
+    //   imgUrl: "/devmedium.png",
+    // },
   ],
   about: {
     title:
       "I'm a software developer that loves building products and web applications that impact millions of lives",
     description: [
-      `I've been developing and designing application for 5 years.`,
-      `I've been coding in React, Next.js, Node.js, MongoDB, Bootstrap, Tailwind, Dart, PHP.`,
+      `Enjoys learning and working on exciting projects to expand technical knowledge. Passionate about bringing ideas to life and open to new opportunities. Let's connect and explore how I can assist you!.`,
+      `Skilled web developer with expertise in React, Next.js, Node.js, Bootstrap, Tailwind, Dart, PHP.`,
     ],
     currentProject: "Tailwind Master Kit",
     currentProjectUrl: "https://tailwindmasterkit.com",
@@ -62,7 +62,7 @@ const userData = {
     {
       title: "軟體工程師",
       company: "文為科技",
-      year: "2023",
+      year: "2024",
       companyLink: "https://buildrome.com/",
       desc: "Making features for BIM software in architecture industry, writing Dart programing language.",
     },
