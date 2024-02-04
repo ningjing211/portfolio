@@ -8,6 +8,11 @@ const userData = {
   address: "get in touch with me",
   projects: [
     {
+      title: "Music & Sounds",
+      link: "https://soundcloud.com/guanjunchen",
+      imgUrl: "/DJ-music-and-branding.jpeg",
+    },
+    {
       title: "Animation & Videos",
       link: "https://next-ui-app-red.vercel.app/videos",
       imgUrl: "/animation-video.png",
