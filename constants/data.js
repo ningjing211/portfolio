@@ -8,8 +8,13 @@ const userData = {
   address: "get in touch with me",
   projects: [
     {
+      title: "Animation & Videos",
+      link: "https://next-ui-app-red.vercel.app/videos",
+      imgUrl: "/animation-video.png",
+    },
+    {
       title: "Creative Visuals",
-      link: "https://next-ui-app-red.vercel.app/",
+      link: "https://next-ui-app-red.vercel.app/visuals",
       imgUrl: "/AI-Visuals/10.jpeg",
     },
     {
