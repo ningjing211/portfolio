@@ -8,6 +8,11 @@ const userData = {
   address: "get in touch with me",
   projects: [
     {
+      title: "UI & Branding",
+      link: "https://guanjun.my.canva.site/portfolio",
+      imgUrl: "/branding.jpeg",
+    },
+    {
       title: "Music & Sounds",
       link: "https://soundcloud.com/guanjunchen",
       imgUrl: "/DJ-music-and-branding.jpeg",
