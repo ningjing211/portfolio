@@ -1,7 +1,7 @@
 const userData = {
   githubUsername: "ningjing211",
   name: "Guanjun",
-  designation: "Front-end Developer, Designer",
+  designation: "Front-End Developer, Designer",
   avatarUrl: "/avatar.jpeg",
   email: "guanjun211@gmail.com",
   phone: "+886 928581833",
@@ -68,7 +68,7 @@ const userData = {
       "I'm a software developer that loves building products and web applications that impact millions of lives",
     description: [
       `Enjoys learning and working on exciting projects to expand technical knowledge. Passionate about bringing ideas to life and open to new opportunities. Let's connect and explore how I can assist you!.`,
-      `Skilled web developer with expertise in React, Next.js, Node.js, Bootstrap, Tailwind, Dart, PHP.`,
+      `Skilled web developer with expertise in React, Next.js, Node.js, Bootstrap, Tailwind, Dart.`,
     ],
     currentProject: "Tailwind Master Kit",
     currentProjectUrl: "https://tailwindmasterkit.com",

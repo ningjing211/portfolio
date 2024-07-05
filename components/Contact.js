@@ -9,7 +9,7 @@ export default function Contact() {
           Contact
         </h1>
       </div>
-      <div className="relative z-10 rounded-md shadow-md bg-[#02044A] p-4 md:p-10 lg:p-20 max-w-6xl mx-auto mb-20 -mt-4">
+      <div className="relative z-10 rounded-md shadow-md bg-[#5264b2d9] p-4 md:p-10 lg:p-20 max-w-6xl mx-auto mb-20 -mt-4">
         <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
           <div className="md:ml-4">
             <header className="">
@@ -39,7 +39,7 @@ export default function Contact() {
                   {userData.phone}
                 </p>
               </div> */}
-              <div className="flex flex-row items-center space-x-6 rounded-md border border-[#02044A] hover:border hover:border-blue-500 p-4">
+              <div className="flex flex-row items-center space-x-6 rounded-md border-[#5264b2] hover:border hover:#eee p-4">
                 <svg
                   xmlns="http://www.w3.org/2000/svg"
                   width="16"
@@ -54,7 +54,7 @@ export default function Contact() {
                   {userData.email}
                 </p>
               </div>
-              <div className="flex flex-row items-center space-x-6 rounded-md border border-[#02044A] hover:border hover:border-blue-500 p-4">
+              {/* <div className="flex flex-row items-center space-x-6 rounded-md border-[#5264b2] hover:border hover:#eee p-4">
                 <svg
                   xmlns="http://www.w3.org/2000/svg"
                   width="16"
@@ -68,7 +68,7 @@ export default function Contact() {
                 <p className="text-gray-50 font-light text-sm">
                   {userData.address}
                 </p>
-              </div>
+              </div> */}
             </div>
             <div className="social-icons flex flex-row space-x-8">
               {/* <a
@@ -109,7 +109,7 @@ export default function Contact() {
                   />
                 </svg>
               </a> */}
-              <a
+              {/* <a
                 href={userData.socialLinks.instagram}
                 className="h-10 w-10 rounded-full hover:bg-blue-500 flex items-center justify-center cursor-pointer"
               >
@@ -138,7 +138,7 @@ export default function Contact() {
                     fill="currentColor"
                   />
                 </svg>
-              </a>
+              </a> */}
             </div>
           </div>
           <form className="form rounded-lg bg-white p-4 flex flex-col">
